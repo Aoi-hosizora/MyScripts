@@ -7,3 +7,6 @@ E:.
     gitfix.bat
     gitgraph.bat
     sh.exe
+
+-> Program Files\Git\bin\*.bat
+-> Program Files\Git\usr\bin\*.bat

@@ -1,6 +1,9 @@
 # MyScripts
 
-+ 放置一些个人用小脚本等
++ For personal
++ Scripts / Macros / Fonts
+
+### Content
 
 + `pandoc` ([pages](https://github.com/tzengyuxio/pages))
 	+ `pm-template.latex` (modify)
@@ -13,3 +16,7 @@
 + `git`
 	+ `gitgraph.bat`
 	+ `gitfix.bat`
+	
++ `font`
+	+ `NotoSansCJK-DemiLight` (ref)
+	+ `noto_consolas` (new)
