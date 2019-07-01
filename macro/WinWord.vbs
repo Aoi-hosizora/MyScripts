@@ -16,24 +16,6 @@ Sub 青()
     Selection.Font.Color = -671023207
 End Sub
 
-Sub 無書式の貼り付け()
-'
-' 無書式の貼り付け Macro
-'
-' Alt V
-'
-    Selection.PasteAndFormat (wdFormatPlainText)
-End Sub
-
-Sub 取り消し線()
-'
-' 取り消し線 Macro
-'
-' Alt D
-'
-    Selection.Font.StrikeThrough = wdToggle
-End Sub
-
 Sub 黒()
 '
 ' 黒 Macro
@@ -60,13 +42,33 @@ Sub 無書式()
     Selection.Range.HighlightColorIndex = wdNoHighlight
 End Sub
 
+Sub 無書式の貼り付け()
+'
+' 無書式の貼り付け Macro
+'
+' Alt V
+'
+    On Error Resume Next
+    Selection.PasteAndFormat (wdFormatPlainText)
+End Sub
+
 Sub コピー()
 '
 ' コピー Macro
 '
 ' Alt C
 '
+    On Error Resume Next
     Selection.Copy
+End Sub
+
+Sub 取り消し線()
+'
+' 取り消し線 Macro
+'
+' Alt D
+'
+    Selection.Font.StrikeThrough = wdToggle
 End Sub
 
 Sub 黄色いペン()

@@ -11,7 +11,7 @@
 	+ `pandocode.bat` (new)
 
 + `macro`
-	+ `WinWord.vbs`
+	+ `WinWord.vbs` (20190701)
 
 + `git`
 	+ `gitgraph.bat`
@@ -20,3 +20,7 @@
 + `font`
 	+ `NotoSansCJK-DemiLight` (ref)
 	+ `noto_consolas` (new)
+
++ `vim`
+	+ `.vimrc` (linux)
+	+ `_vimrc` (windows)
