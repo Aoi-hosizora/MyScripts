@@ -24,3 +24,12 @@
 + `vim`
 	+ `.vimrc` (linux)
 	+ `_vimrc` (windows)
+
++ `regedit`
+	+ `MsoJp.reg`
+	+ `OpthWithImg.reg`
+	+ `PCFolder.reg`
+	+ `ShellBack.reg`
+	+ `SysAdvProp.reg`
+	+ `Win10Voloum.reg`
+	+ [DirShell](https://github.com/Aoi-hosizora/DirShell)

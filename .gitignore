@@ -1,0 +1,6 @@
+*.sdf
+*.opensdf
+*.suo
+.vscode/
+ipch/
+x64/

@@ -1,0 +1,103 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell]
+
+; AozoraTool
+; [HKEY_CLASSES_ROOT\Directory\Background\shell\AozoraTool]
+; @="AozoraTool"
+
+; [HKEY_CLASSES_ROOT\Directory\Background\shell\AozoraTool\command]
+; @="\"F:\\プログラム\\AozoraTool\\AozoraTool\\bin\\Debug\\AozoraTool.exe\""
+
+; DesktopTips
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DesktopTips]
+@="デスクトップ ティップス"
+"Icon"="\"F:\\プログラム\\DesktopTips\\DesktopTips\\bin\\Release\\DesktopTips.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DesktopTips\command]
+@="\"F:\\プログラム\\DesktopTips\\DesktopTips\\bin\\Release\\DesktopTips.exe\""
+
+; DAEMON Tools Lite
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DTLauncher]
+@="DAEMON Tools Lite"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DTLauncher\command]
+@="\"E:\\Program Files\\DAEMON Tools Lite\\DTLauncher.exe\""
+
+; GARbro.GUI
+[HKEY_CLASSES_ROOT\Directory\Background\shell\GARbroGUI]
+@="GARbro.GUI で開く"
+"Icon"="\"E:\\Gal Files\\tool\\GRABOR\\GARbro.GUI.exe\""
+"Position"="Bottom"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\GARbroGUI\command]
+@="\"E:\\Gal Files\\tool\\GRABOR\\GARbro.GUI.exe\" ."
+
+; Git Bash
+[HKEY_CLASSES_ROOT\Directory\Background\shell\git_shell]
+@="Git B&ash Here"
+"Icon"="E:\\Program Files\\Git\\git-bash.exe"
+"Position"="Bottom"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\git_shell\command]
+@="\"E:\\Program Files\\Git\\git-bash.exe\" \"--cd=%v.\""
+
+; IDEA
+[HKEY_CLASSES_ROOT\Directory\Background\shell\IntelliJ IDEA]
+@="Open Folder as IDEA Project"
+"Icon"="E:\\Program Files\\JetBrains\\IntelliJ IDEA 2018.3.5\\bin\\idea64.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\IntelliJ IDEA\command]
+@="\"E:\\Program Files\\JetBrains\\IntelliJ IDEA 2018.3.5\\bin\\idea64.exe\" \"%V\""
+
+; Qt Command Prompt
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Qt5.5_MSVC2010]
+@="Qt 5.5 Command Prompt"
+"icon"="\"E:\\Qt\\Qt5.5.1\\Tools\\QtCreator\\bin\\qtcreator.exe\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Qt5.5_MSVC2010\command]
+@="cmd /A /Q /K \"E:\\Qt\\Qt5.5.1\\5.5\\msvc2010\\bin\\qtenv2.bat  vsvars\""
+
+; Regedit
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Regedit]
+"ICON"="Regedit.exe"
+@="レジストリ エディター"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Regedit\command]
+@="regedit.exe"
+
+; cmd
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
+@="管理者として &cmd をここに開く"
+"HasLUAShield"=""
+"Icon"="\"C:\\Windows\\System32\\cmd.exe\""
+"Position"="Bottom"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas\command]
+@="cmd.exe /s /k pushd \"%V\""
+
+; AS
+[HKEY_CLASSES_ROOT\Directory\Background\shell\SAndroid]
+@="Open Folder as Android Project"
+"Icon"="E:\\Program Files\\Android\\Android Studio 3.3.2\\bin\\studio64.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\SAndroid\command]
+@="\"E:\\Program Files\\Android\\Android Studio 3.3.2\\bin\\studio64.exe\" ."
+
+; Ubuntu
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ubuntu]
+@="Ubuntu Bash(&U)"
+"Icon"="\"C:\\Program Files\\WindowsApps\\CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc\\ubuntu.exe\""
+"Position"="Bottom"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ubuntu\command]
+@="ubuntu.exe"
+
+; VSC
+[HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode]
+@="Open w&ith Code"
+"Icon"="E:\Program Files\Microsoft VS Code\Code.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
+@=""E:\Program Files\Microsoft VS Code\Code.exe" "%V""
+
