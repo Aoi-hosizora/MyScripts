@@ -101,3 +101,12 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
 @=""E:\Program Files\Microsoft VS Code\Code.exe" "%V""
 
+; Cygwin64
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cygwin64]
+@="Cygwin64 Terminal"
+"position"="bottom"
+"Icon"="\"E:\\cygwin64\\Cygwin-Terminal.ico\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Cygwin64\command]
+@="E:\\cygwin64\\bin\\cygwin.bat %V"
+

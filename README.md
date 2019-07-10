@@ -33,3 +33,7 @@
 	+ `SysAdvProp.reg`
 	+ `Win10Voloum.reg`
 	+ [DirShell](https://github.com/Aoi-hosizora/DirShell)
+
++ `cygwin`
+	+ `cygwin.bat`
+	+ `.bash_profile`
