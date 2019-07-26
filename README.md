@@ -37,3 +37,7 @@
 + `cygwin`
 	+ `cygwin.bat`
 	+ `.bash_profile`
+
++ `PATH`
+    + `SysEnv.reg`
+    + `UsrEnv.reg`

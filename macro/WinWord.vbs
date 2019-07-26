@@ -1,33 +1,33 @@
-Sub èµ¤()
+Sub Ô()
 '
-' èµ¤ Macro
+' Ô Macro
 '
 ' Alt S
 '
     Selection.Font.Color = wdColorRed
 End Sub
 
-Sub é’()
+Sub Â()
 '
-' é’ Macro
+' Â Macro
 '
 ' Alt B
 '
     Selection.Font.Color = -671023207
 End Sub
 
-Sub é»’()
+Sub •()
 '
-' é»’ Macro
+' • Macro
 '
 ' Alt Z
 '
     Selection.Font.Color = wdColorAutomatic
 End Sub
 
-Sub ç„¡æ›¸å¼()
+Sub –³‘®()
 '
-' ç„¡æ›¸å¼ Macro
+' –³‘® Macro
 '
 ' Alt X
 '
@@ -42,9 +42,9 @@ Sub ç„¡æ›¸å¼()
     Selection.Range.HighlightColorIndex = wdNoHighlight
 End Sub
 
-Sub ç„¡æ›¸å¼ã®è²¼ã‚Šä»˜ã‘()
+Sub –³‘®‚Ì“\‚è•t‚¯()
 '
-' ç„¡æ›¸å¼ã®è²¼ã‚Šä»˜ã‘ Macro
+' –³‘®‚Ì“\‚è•t‚¯ Macro
 '
 ' Alt V
 '
@@ -52,9 +52,9 @@ Sub ç„¡æ›¸å¼ã®è²¼ã‚Šä»˜ã‘()
     Selection.PasteAndFormat (wdFormatPlainText)
 End Sub
 
-Sub ã‚³ãƒ”ãƒ¼()
+Sub ƒRƒs[()
 '
-' ã‚³ãƒ”ãƒ¼ Macro
+' ƒRƒs[ Macro
 '
 ' Alt C
 '
@@ -62,18 +62,18 @@ Sub ã‚³ãƒ”ãƒ¼()
     Selection.Copy
 End Sub
 
-Sub å–ã‚Šæ¶ˆã—ç·š()
+Sub æ‚èÁ‚µü()
 '
-' å–ã‚Šæ¶ˆã—ç·š Macro
+' æ‚èÁ‚µü Macro
 '
 ' Alt D
 '
     Selection.Font.StrikeThrough = wdToggle
 End Sub
 
-Sub é»„è‰²ã„ãƒšãƒ³()
+Sub ‰©F‚¢ƒyƒ“()
 '
-' é»„è‰²ã„ãƒšãƒ³ Macro
+' ‰©F‚¢ƒyƒ“ Macro
 '
 ' Shift Alt S
 '
@@ -81,9 +81,9 @@ Sub é»„è‰²ã„ãƒšãƒ³()
     Selection.Range.HighlightColorIndex = wdYellow
 End Sub
 
-Sub é’ã„ãƒšãƒ³()
+Sub Â‚¢ƒyƒ“()
 '
-' é’ã„ãƒšãƒ³ Macro
+' Â‚¢ƒyƒ“ Macro
 '
 ' Shift Alt B
 '
@@ -91,9 +91,9 @@ Sub é’ã„ãƒšãƒ³()
     Selection.Range.HighlightColorIndex = wdTurquoise
 End Sub
 
-Sub ãƒšãƒ³ã‚’æ¶ˆã™()
+Sub ƒyƒ“‚ğÁ‚·()
 '
-' ãƒšãƒ³ã‚’æ¶ˆã™ Macro
+' ƒyƒ“‚ğÁ‚· Macro
 '
 ' Shift Alt Z
 '

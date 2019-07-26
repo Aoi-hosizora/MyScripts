@@ -1,0 +1,5 @@
+sys:
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\Environment
+
+usr:
+HKEY_CURRENT_USER\Environment
