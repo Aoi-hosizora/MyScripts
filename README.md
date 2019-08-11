@@ -38,6 +38,8 @@
 	+ `cygwin.bat`
 	+ `.bash_profile`
 
-+ `PATH`
++ `Env`
     + `SysEnv.reg`
     + `UsrEnv.reg`
+    + `sys.path`
+    + `usr.path`
