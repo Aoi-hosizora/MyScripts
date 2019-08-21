@@ -33,6 +33,9 @@
 	+ `SysAdvProp.reg`
 	+ `Win10Voloum.reg`
 	+ `CopyFilePath.reg`
+	+ `WindowMetrics.reg`
+	+ `Colors.reg`
+
 + [DirShell](https://github.com/Aoi-hosizora/DirShell)
 	
 + `cygwin`
