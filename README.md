@@ -32,11 +32,12 @@
 	+ `ShellBack.reg`
 	+ `SysAdvProp.reg`
 	+ `Win10Voloum.reg`
-	+ `CopyFilePath.reg`
 	+ `WindowMetrics.reg`
 	+ `Colors.reg`
 
 + [DirShell](https://github.com/Aoi-hosizora/DirShell)
+
++ [CopyShell](https://github.com/Aoi-hosizora/CopyShell)
 	
 + `cygwin`
 	+ `cygwin.bat`
