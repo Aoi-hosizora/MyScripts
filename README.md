@@ -16,6 +16,7 @@
 
 + `git`
 	+ `gitgraph.bat`
+	    + `git log --graph --decorate --date=format:"%Y-%m-%d %H:%M:%S" --pretty=format:"%C(yellow)%h%C(auto)%d %C(white)%s %C(cyan)[%an] %C(red)<%cd>"`
 	+ `gitfix.bat`
 	
 + `font`
