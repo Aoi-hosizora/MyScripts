@@ -50,9 +50,3 @@
 + `cygwin`
 	+ `cygwin.bat`
 	+ `.bash_profile`
-
-+ `Env`
-    + `SysEnv.reg`
-    + `UsrEnv.reg`
-    + `sys.path`
-    + `usr.path`
