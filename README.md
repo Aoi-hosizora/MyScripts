@@ -34,14 +34,11 @@
 	+ `_vimrc` (windows)
 
 + `regedit`
+	+ `ImageOpenWith.reg`
 	+ `MsoJp.reg`
-	+ `OpthWithImg.reg`
 	+ `PCFolder.reg`
-	+ `ShellBack.reg`
 	+ `SysAdvProp.reg`
-	+ `Win10Voloum.reg`
-	+ `WindowMetrics.reg`
-	+ `Colors.reg`
+	+ `Win10Volumn.reg`
 
 + [DirShell](https://github.com/Aoi-hosizora/DirShell)
 
