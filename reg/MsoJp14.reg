@@ -2,281 +2,281 @@ Windows Registry Editor Version 5.00
 
 ; Access
 
-[HKEY_CLASSES_ROOT\Access.Application.15]
-@="Microsoft Access ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹"
+[HKEY_CLASSES_ROOT\Access.Application.14]
+@="Microsoft Access ƒf[ƒ^ƒx[ƒX"
 
-[HKEY_CLASSES_ROOT\Access.Application.15\shell\New]
-@="æ–°è¦(&N)"
+[HKEY_CLASSES_ROOT\Access.Application.14\shell\New]
+@="V‹K(&N)"
 
-[HKEY_CLASSES_ROOT\Access.Application.15\shell\Open]
-@="é–‹ã(&O)"
+[HKEY_CLASSES_ROOT\Access.Application.14\shell\Open]
+@="ŠJ‚­(&O)"
 
-[HKEY_CLASSES_ROOT\Access.Application.15\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+[HKEY_CLASSES_ROOT\Access.Application.14\shell\OpenAsReadOnly]
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 ; Word
 
 [HKEY_CLASSES_ROOT\Word.Document.12]
-@="Microsoft Word æ–‡æ›¸"
+@="Microsoft Word •¶‘"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\OnenotePrintto]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 [HKEY_CLASSES_ROOT\Word.Document.12\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8]
-@="Microsoft Word 97 - 2003 æ–‡æ›¸"
+@="Microsoft Word 97 - 2003 •¶‘"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\OnenotePrintto]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Word.Document.8\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 ; Excel
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12]
-@="Microsoft Excel ãƒ–ãƒƒã‚¯"
+@="Microsoft Excel ƒuƒbƒN"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\protocol\StdFileEditing\Verb\0]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\protocol\StdFileEditing\Verb\1]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8]
-@="Microsoft Excel 97-2003 ãƒ–ãƒƒã‚¯"
+@="Microsoft Excel 97-2003 ƒuƒbƒN"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\protocol\StdFileEditing\verb\0]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\protocol\StdFileEditing\verb\1]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 [HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 ; PPT
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12]
-@="Microsoft PowerPoint ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³"
+@="Microsoft PowerPoint ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\protocol\StdFileEditing\Verb\0]
-@="ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼(&H)"
+@="ƒXƒ‰ƒCƒhƒVƒ‡[(&H)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\protocol\StdFileEditing\Verb\1]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\protocol\StdFileEditing\Verb\2]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell]
 @="Open"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\Show]
-@="ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼(&H)"
+@="ƒXƒ‰ƒCƒhƒVƒ‡[(&H)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.12\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8]
-@="Microsoft PowerPoint 97-2003 ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³"
+@="Microsoft PowerPoint 97-2003 ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\protocol\StdFileEditing\Verb\0]
-@="ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼(&H)"
+@="ƒXƒ‰ƒCƒhƒVƒ‡[(&H)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\protocol\StdFileEditing\Verb\1]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\protocol\StdFileEditing\Verb\2]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell]
 @="Open"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\Show]
-@="ã‚¹ãƒ©ã‚¤ãƒ‰ã‚·ãƒ§ãƒ¼(&H)"
+@="ƒXƒ‰ƒCƒhƒVƒ‡[(&H)"
 
 [HKEY_CLASSES_ROOT\PowerPoint.Show.8\shell\ViewProtected]
-@="ä¿è­·ãƒ“ãƒ¥ãƒ¼ã§é–‹ã(&V)"
-
-[HKEY_CLASSES_ROOT\Publisher.Document.15]
-@="Microsoft Publisher æ–‡æ›¸"
+@="•ÛŒìƒrƒ…[‚ÅŠJ‚­(&V)"
 
 ; Publisher
 
-[HKEY_CLASSES_ROOT\Publisher.Document.15\shell\Edit]
-@="ç·¨é›†(&E)"
+[HKEY_CLASSES_ROOT\Publisher.Document.14]
+@="Microsoft Publisher •¶‘"
 
-[HKEY_CLASSES_ROOT\Publisher.Document.15\shell\New]
-@="æ–°è¦(&N)"
+[HKEY_CLASSES_ROOT\Publisher.Document.14\shell\Edit]
+@="•ÒW(&E)"
 
-[HKEY_CLASSES_ROOT\Publisher.Document.15\shell\Open]
-@="é–‹ã(&O)"
+[HKEY_CLASSES_ROOT\Publisher.Document.14\shell\New]
+@="V‹K(&N)"
 
-[HKEY_CLASSES_ROOT\Publisher.Document.15\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+[HKEY_CLASSES_ROOT\Publisher.Document.14\shell\Open]
+@="ŠJ‚­(&O)"
 
-[HKEY_CLASSES_ROOT\Publisher.Document.15\shell\Print]
-@="å°åˆ·(&P)"
+[HKEY_CLASSES_ROOT\Publisher.Document.14\shell\OpenAsReadOnly]
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
+
+[HKEY_CLASSES_ROOT\Publisher.Document.14\shell\Print]
+@="ˆóü(&P)"
 
 ; Project
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9]
-@="Microsoft Project æ–‡æ›¸"
+@="Microsoft Project •¶‘"
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9\protocol\StdFileEditing\Verb\0]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9\protocol\StdFileEditing\Verb\1]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\MSProject.Project.9\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 ; Visio
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15]
-@="Microsoft Visio å›³é¢"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14]
+@="Microsoft Visio }–Ê"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\protocol\StdFileEditing\verb\0]
-@="ç·¨é›†(&E)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\protocol\StdFileEditing\verb\0]
+@="•ÒW(&E)"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\protocol\StdFileEditing\verb\1]
-@="é–‹ã(&O)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\protocol\StdFileEditing\verb\1]
+@="ŠJ‚­(&O)
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\shell\Edit]
-@="ç·¨é›†(&E)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\Edit]
+@="•ÒW(&E)"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\shell\Open]
-@="é–‹ã(&O)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\Open]
+@="ŠJ‚­(&O)"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\OpenAsReadOnly]
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\shell\Print]
-@="å°åˆ·(&P)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\Print]
+@="ˆóü(&P)"
 
-[HKEY_CLASSES_ROOT\Visio.Drawing.15\shell\PrintTo]
-@="å°åˆ·å‡ºåŠ›(&T)"
+[HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\PrintTo]
+@="ˆóüo—Í(&T)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11]
-@="Microsoft Visio 2003-2010 å›³é¢"
+@="Microsoft Visio 2003-2010 }–Ê"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\protocol\StdFileEditing\verb\0]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\protocol\StdFileEditing\verb\1]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\Edit]
-@="ç·¨é›†(&E)"
+@="•ÒW(&E)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\New]
-@="æ–°è¦(&N)"
+@="V‹K(&N)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\Open]
-@="é–‹ã(&O)"
+@="ŠJ‚­(&O)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\OpenAsReadOnly]
-@="èª­ã¿å–ã‚Šå°‚ç”¨ã¨ã—ã¦é–‹ã"
+@="“Ç‚İæ‚èê—p‚Æ‚µ‚ÄŠJ‚­"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\Print]
-@="å°åˆ·(&P)"
+@="ˆóü(&P)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.11\shell\PrintTo]
-@="å°åˆ·å‡ºåŠ›(&T)"
+@="ˆóüo—Í(&T)"
