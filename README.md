@@ -1,6 +1,7 @@
 # MyScripts
 
 + Personal scripts
++ Use `bfg -delete-files XXX` to delete large files from history
 
 ### Content
 
