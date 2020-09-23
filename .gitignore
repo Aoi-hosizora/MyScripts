@@ -1,9 +1,5 @@
+### Editor ###
 .vscode/
-.history/
 .ionide/
-
-*.sdf
-*.opensdf
-*.suo
-ipch/
-x64/
+.history/
+.idea/

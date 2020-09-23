@@ -1,0 +1,7 @@
+[user]
+	name = Aoi-Hosizora
+	email = a970335605@hotmail.com
+[alias]
+	graph = log --graph --decorate --date=format:'%Y-%m-%d %H:%M:%S' --pretty=format:'%C(yellow)%h%C(auto)%d %C(white)%s %C(cyan)[%an] %C(red)<%cd>'
+[http]
+	proxy = socks5://127.0.0.1:12334
