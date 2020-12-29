@@ -23,6 +23,8 @@
     + `cmdrc.bat`
         + [windows cmd alias](https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
     + ~~`neo-go.cmd`~~
++ `shell`
+    + `gt.sh`
 + `vim`
     + `.vimrc` (linux)
     + `_vimrc` (windows)
