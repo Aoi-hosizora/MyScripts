@@ -11,3 +11,5 @@ doskey cd~=cd "%USERPROFILE%\$*"
 doskey cdd=cd "%USERPROFILE%\Desktop$*"
 doskey ~=cd "%USERPROFILE%\$*"
 doskey ~d=cd "%USERPROFILE%\Desktop\$*"
+
+@echo on

@@ -17,11 +17,15 @@
         + `git log --graph --decorate --date=format:"%Y-%m-%d %H:%M:%S" --pretty=format:"%C(yellow)%h%C(auto)%d %C(white)%s %C(cyan)[%an] %C(red)<%cd>"`
     + `.gitconfig`
 + `bat`
-    + `RestartEx.bat`
+    + `restartexplorer.bat`
         + [How to install pkg config in windows?](https://stackoverflow.com/questions/1710922/how-to-install-pkg-config-in-windows)
         + [mingw64-x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/)
+	+ `restartexplorer2.bat`
+		+ [Win+X Menu Editor](https://www.gigafree.net/system/registry/win+xmenueditor.html)
     + `cmdrc.bat`
         + [windows cmd alias](https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
+	+ `gmsame.bat`
+		+ [GraphicsMagick](http://www.graphicsmagick.org/)
     + ~~`neo-go.cmd`~~
 + `vim`
     + `.vimrc` (linux)
