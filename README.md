@@ -24,7 +24,7 @@
 		+ [Win+X Menu Editor](https://www.gigafree.net/system/registry/win+xmenueditor.html)
     + `cmdrc.bat`
         + [windows cmd alias](https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
-	+ `gmsame.bat`
+	+ `gmsame.bat` `gm512.bat`
 		+ [GraphicsMagick](http://www.graphicsmagick.org/)
     + ~~`neo-go.cmd`~~
 + `shell`
