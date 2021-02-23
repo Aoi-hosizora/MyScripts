@@ -1,4 +1,4 @@
-Windows Registry Editor Version 5.00
+﻿Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\sysdm]
 @="システムの詳細設定"
@@ -7,3 +7,9 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\sysdm\command]
 @="C:\\Windows\\System32\\SystemPropertiesAdvanced.exe"
 
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sysdm]
+@="システムの詳細設定"
+"Icon"="C:\\Windows\\System32\\SystemPropertiesAdvanced.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sysdm\command]
+@="C:\\Windows\\System32\\SystemPropertiesAdvanced.exe"

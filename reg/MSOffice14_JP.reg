@@ -237,7 +237,7 @@ Windows Registry Editor Version 5.00
 @="編集(&E)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.14\protocol\StdFileEditing\verb\1]
-@="開く(&O)
+@="開く(&O)"
 
 [HKEY_CLASSES_ROOT\Visio.Drawing.14\shell\Edit]
 @="編集(&E)"

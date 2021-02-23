@@ -33,12 +33,7 @@
     + `.vimrc` (linux)
     + `_vimrc` (windows)
 + `regedit`
-    + `ImageOpenWith.reg`
-    + `MsoJp14.reg` (office 2010)
-    + `MsoJp15.reg` (office 2013)
-    + `PCFolder.reg`
-    + `SysAdvProp.reg`
-    + `Win10Volume.reg`
+    + `*.reg`
 + `cygwin`
     + `cygwin.bat`
     + `.bash_profile`
