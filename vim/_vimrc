@@ -1,7 +1,13 @@
-set number
+﻿set number
 syntax on
+set autoindent
+set hlsearch
+set linebreak
+set backspace=indent,eol,start
+
 set tabstop=4
 set shiftwidth=4
+set laststatus=1
 
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
 set termencoding=utf-8

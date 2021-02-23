@@ -1,24 +1,31 @@
-set number
-syntax on
+set number "行号
+syntax on "高亮
+set autoindent "缩进
+set hlsearch "搜索高亮
+set linebreak "单词换行
 
-set autoindent
-set cindent
+set tabstop=4 "制表符
+set shiftwidth=4 "空格
+set laststatus=2 "状态栏高度
 
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
+scriptencoding utf-8 "特殊字符在 git 中的支持
+set encoding=utf-8
+set list "隐藏字符
+set listchars=tab:▸\ ,eol:¬ "隐藏字符设置
 
-set noexpandtab
-set smarttab
+set cursorline "高亮当前行
+hi cursorline cterm=none term=none
+autocmd WinEnter * setlocal cursorline
+autocmd WinLeave * setlocal nocursorline
+highlight CursorLine guibg=#303000 ctermbg=234 "设置高亮颜色
 
-set ignorecase
-set hlsearch
-set incsearch
-
-set enc=utf-8
-set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
-
-set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:    %M\")}
-set statusline=[%F]%y%r%m%*%=[Line:%l/%L,Column:%c][%p%%]
-set laststatus=2
-set cmdheight=1
+"==================== airline ====================
+set ttimeoutlen=50
+let g:airline_theme='powerlineish'
+"set guifont=DejaVu\ Sans\ Mono "DejaVu Sans Mono
+let g:airline_powerline_fonts=1
+let g:airline#extensions#tabline#enabled=1
+let g:airline#extensions#tabline#buffer_idx_mode=1
+let g:airline#extensions#branch#enabled=1
+nmap <C-p> <Plug>AirlineSelectPrevTab
+nmap <C-n> <Plug>AirlineSelectNextTab
