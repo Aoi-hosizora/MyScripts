@@ -16,6 +16,7 @@
 	+ `restartexplorer2.bat` (WinXMenuEditor)
     + `cmdrc.bat` (cmd alias: https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
 	+ `gmsame.bat` `gm512.bat` (GraphicsMagick)
+	+ `bootmenu-legacy.bat` `bootmenu-standard.bat`
     + ~~`neo-go.cmd`~~
 + `git`
     + `.gitconfig` (ubuntu)
