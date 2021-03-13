@@ -1,6 +1,6 @@
 @echo off
 
-doskey ll=ls -alF $*
+doskey ll=ls -alFh $*
 doskey la=ls -A $*
 doskey l=ls -CF $*
 
