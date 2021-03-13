@@ -1,5 +1,8 @@
 Windows Registry Editor Version 5.007
 
+; https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php
+; [-HKEY_CLASSES_ROOT\Applications\photoviewer.dll]
+
 [HKEY_CLASSES_ROOT\Applications\photoviewer.dll]
 
 [HKEY_CLASSES_ROOT\Applications\photoviewer.dll\shell]
@@ -38,5 +41,3 @@ Windows Registry Editor Version 5.007
 
 [HKEY_CLASSES_ROOT\Applications\photoviewer.dll\shell\print\DropTarget]
 "Clsid"="{60fd46de-f830-4894-a628-6fa81bc0190d}"
-
-[-HKEY_CLASSES_ROOT\Applications\photoviewer.dll]
