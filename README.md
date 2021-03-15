@@ -12,8 +12,8 @@
 + `macro`
     + `WinWord.vbs` (20190701)
 + `bat`
-    + `restartexplorer.bat`
-    + `restartexplorer2.bat` (WinXMenuEditor)
+    + `restartexplorer-cmd.bat` (Add to PATH)
+    + `restartexplorer-menu.bat` (WinXMenuEditor)
     + `cmdrc.bat` (cmd alias: https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
     + `gmsame.bat` `gm512.bat` (GraphicsMagick)
     + `bootmenu-legacy.bat` `bootmenu-standard.bat`

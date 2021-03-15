@@ -1,15 +1,24 @@
 Windows Registry Editor Version 5.00
 
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers]
+"C:\Windows\System32\regsvr32.exe"="~ RUNASADMIN"
+
 [HKEY_CLASSES_ROOT\dllfile\shell]
 
-[HKEY_CLASSES_ROOT\dllfile\shell\RegSvr] 
+[HKEY_CLASSES_ROOT\dllfile\shell\register] 
 @="登録コントロール"
 
-[HKEY_CLASSES_ROOT\dllfile\shell\RegSvr\Command] 
+[HKEY_CLASSES_ROOT\dllfile\shell\register] 
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\dllfile\shell\register\Command] 
 @="regsvr32 %1"
 
-[HKEY_CLASSES_ROOT\dllfile\shell\UnRegSvr] 
+[HKEY_CLASSES_ROOT\dllfile\shell\unregister] 
 @="消却コントロール"
 
-[HKEY_CLASSES_ROOT\dllfile\shell\UnRegSvr\Command] 
+[HKEY_CLASSES_ROOT\dllfile\shell\unregister] 
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\dllfile\shell\unregister\Command] 
 @="regsvr32 /u %1"
