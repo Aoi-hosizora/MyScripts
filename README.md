@@ -5,7 +5,7 @@
 ### Content
 
 + `pandoc` (refers to: https://github.com/tzengyuxio/pages)
-    + `pm-template.tex` (modify)
+    + `pm-template.tex` (modified)
     + `template.tex` (now) (refers to: https://github.com/MiKTeX/miktex-packaging/issues/131)
     + `pm-template.html5` (old)
     + `pandocode.bat` (new)
