@@ -19,12 +19,9 @@
     + `bootmenu-legacy.bat` `bootmenu-standard.bat`
     + `Win10PhotoViewer.bat` (https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php)
     + ~~`neo-go.cmd`~~
-+ `git`
-    + `.gitconfig` (ubuntu)
-    + `_gitconfig` (windows)
 + `vim`
-    + `.vimrc` (ubuntu)
-    + `_vimrc` (windows)
+    + `.vimrc`
+    + `_vimrc`
 + `bash`
     + `gt.sh` (gnome-terminal)
 + `regedit`

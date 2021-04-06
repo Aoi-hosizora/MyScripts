@@ -1,7 +1,0 @@
-[alias]
-	graph = log --graph --decorate \
-	            --date=format:'%Y-%m-%d %H:%M:%S' \
-	            --pretty=format:'%C(yellow)%h%C(auto)%d %C(white)%s%C(auto) %C(cyan)[%an]%C(auto) %C(red)<%cd>%C(auto)'
-[core]
-	quotepath = off
-	editor = vim
