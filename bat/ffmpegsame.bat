@@ -7,19 +7,19 @@ echo %arg1% %arg2%
 
 if "%arg1%" == "/?" goto usage
 if "%arg1%" == ""   goto usage
-if "%arg2%" == ""   goto gm
-if "%arg2%" == "/R" goto gm
+if "%arg2%" == ""   goto ffmepg
+if "%arg2%" == "/R" goto ffmepg
 goto usage
 
 :usage
-echo Usage: gm512 filename [/R]
+echo Usage: ffmpegsame filename [/R]
 goto eof
 
-:gm
+:ffmepg
 set origin="%arg1%"
 set generated="generated_%arg1%"
-echo Using "gm convert -resize 512x512 ..."
-gm convert -resize 512x512 %origin% %generated%
+echo Using "ffmpeg -i ..."
+ffmpeg -i %origin% %generated%
 if "%2" == "/R" ( :: Replace
     del %origin%
     rename %generated% %origin%

@@ -16,6 +16,7 @@
     + `restartexplorer-menu.bat` (WinXMenuEditor)
     + `cmdrc.bat` (cmd alias: https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
     + `gmsame.bat` `gm512.bat` (GraphicsMagick)
+    + `ffmpegsame.bat` (ffmpeg)
     + `bootmenu-legacy.bat` `bootmenu-standard.bat`
     + `Win10PhotoViewer.bat` (https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php)
     + ~~`neo-go.cmd`~~
