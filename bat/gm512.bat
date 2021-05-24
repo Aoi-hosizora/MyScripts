@@ -3,7 +3,6 @@
 set arg1=%1
 set arg2=%2
 set arg1=%arg1:"=%
-echo %arg1% %arg2%
 
 if "%arg1%" == "/?" goto usage
 if "%arg1%" == ""   goto usage
