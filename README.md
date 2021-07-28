@@ -19,7 +19,7 @@
     + `ffmpegsame.bat` (ffmpeg)
     + `bootmenu-legacy.bat` `bootmenu-standard.bat`
     + `Win10PhotoViewer.bat` (https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php)
-    + ~~`neo-go.cmd`~~
+    + `cgrep.bat` (grep --color=always)
 + `vim`
     + `.vimrc`
     + `_vimrc`

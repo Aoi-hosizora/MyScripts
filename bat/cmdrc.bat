@@ -1,16 +1,23 @@
 @echo off
 
+:: MinGW
 set ls=ls -FN --color --show-control-chars --time-style="+%%Y-%%m-%%d %%H:%%M:%%S"
 doskey ls=%ls% $*
 doskey ll=%ls% -alhG $*
 doskey la=%ls% -A $*
 doskey l=%ls% -CF $*
 doskey du=du -h $*
+doskey grep=grep --color=always $*
+doskey fgrep=fgrep --color=always $*
+doskey egrep=egrep --color=always $*
 
-doskey go2go=go2 tool go2go $*
-
+:: Windows
+doskey expl=explorer $*
 doskey cd=cd /d $*
 doskey ~=cd /d "%USERPROFILE%\$*"
 doskey ~d=cd /d "%USERPROFILE%\Desktop\$*"
+
+:: Customed
+doskey go2go=go2 tool go2go $*
 
 @echo on
