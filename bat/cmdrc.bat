@@ -20,4 +20,7 @@ doskey ~d=cd /d "%USERPROFILE%\Desktop\$*"
 :: Customed
 doskey go2go=go2 tool go2go $*
 
+:: Prompt
+prompt $e[104m$p$e[0m$g
+
 @echo on
