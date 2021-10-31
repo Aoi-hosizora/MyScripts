@@ -25,7 +25,7 @@
     + `_vimrc`
 + `bash`
     + `gt.sh` (gnome-terminal)
-+ `regedit`
++ `registry`
     + `*.reg`
 + `cygwin`
     + `cygwin.bat`
