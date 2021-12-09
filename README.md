@@ -2,7 +2,7 @@
 
 + My personal scripts.
 
-### Content
+### Contents
 
 + `pandoc` (refers to: https://github.com/tzengyuxio/pages)
     + `pm-template.tex` (modified)
@@ -12,17 +12,17 @@
 + `macro`
     + `WinWord.vbs` (20190701)
 + `bat`
-    + `restartexplorer-cmd.bat` (Add to PATH)
-    + `restartexplorer-menu.bat` (WinXMenuEditor)
-    + `cmdrc.bat` (cmd alias: https://blog.csdn.net/yiranzhiliposui/article/details/83116819)
+    + `restartexplorer-cmd.bat` (For PATH)
+    + `restartexplorer-menu.bat` (For WinXMenuEditor)
+    + `cmdrc.bat` (setup `REG_SZ AutoRun` in registry `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`)
     + `gmsame.bat` `gm512.bat` (GraphicsMagick)
     + `ffmpegsame.bat` (ffmpeg)
     + `bootmenu-legacy.bat` `bootmenu-standard.bat`
-    + `Win10PhotoViewer.bat` (https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php)
-    + `cgrep.bat` (grep --color=always)
+    + `Win10PhotoViewer.bat` (visit https://qwerty.work/blog/2020/04/windows10-photoviewer-enable.php for more)
+    + `cgrep.bat` (alias for `grep --color=always`)
 + `vim`
-    + `.vimrc`
-    + `_vimrc`
+    + `.vimrc` (Linux)
+    + `_vimrc` (Windows)
 + `bash`
     + `gt.sh` (gnome-terminal)
 + `registry`
