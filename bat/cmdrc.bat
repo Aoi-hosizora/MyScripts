@@ -1,5 +1,7 @@
 @echo off
 
+:: For me, store this file to C:\Settings\PATH.
+
 :: MinGW
 set ls=ls -FN --color --show-control-chars --time-style="+%%Y-%%m-%%d %%H:%%M:%%S"
 doskey ls=%ls% $*
@@ -10,6 +12,9 @@ doskey du=du -h $*
 doskey grep=grep --color=always $*
 doskey fgrep=fgrep --color=always $*
 doskey egrep=egrep --color=always $*
+:: in "xxx | grep" cases, use cgrep rather than doskeyed grep
+
+:: Others
 doskey ctree=tree.exe -N $*
 doskey $?=echo %%errorlevel%%
 
@@ -18,9 +23,6 @@ doskey expl=explorer $*
 doskey cd=cd /d $*
 doskey ~=cd /d "%USERPROFILE%\$*"
 doskey ~d=cd /d "%USERPROFILE%\Desktop\$*"
-
-:: Customed
-doskey go2go=go2 tool go2go $*
 
 :: Prompt
 :: prompt $e[104m$p$e[0m$g
