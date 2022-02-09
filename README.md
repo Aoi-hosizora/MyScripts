@@ -27,6 +27,3 @@
     + `gt.sh` (gnome-terminal)
 + `registry`
     + `*.reg`
-+ `cygwin`
-    + `cygwin.bat`
-    + `.bash_profile`

@@ -10,6 +10,8 @@ doskey du=du -h $*
 doskey grep=grep --color=always $*
 doskey fgrep=fgrep --color=always $*
 doskey egrep=egrep --color=always $*
+doskey ctree=tree.exe -N $*
+doskey $?=echo %%errorlevel%%
 
 :: Windows
 doskey expl=explorer $*
@@ -21,6 +23,7 @@ doskey ~d=cd /d "%USERPROFILE%\Desktop\$*"
 doskey go2go=go2 tool go2go $*
 
 :: Prompt
-prompt $e[104m$p$e[0m$g
+:: prompt $e[104m$p$e[0m$g
+prompt $e[104m$p$e[0m$$ 
 
 @echo on
