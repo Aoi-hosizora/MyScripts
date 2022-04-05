@@ -1,3 +1,5 @@
+#!/bin/bash
+
 working_dir="$1"
 if [[ ! "$working_dir" =~ ^/.* ]]; then 
 	# Path does not start with /, concat with PWD
