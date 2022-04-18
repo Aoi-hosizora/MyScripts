@@ -3,18 +3,22 @@ syntax on " 语法高亮
 set autoindent " 自动缩进
 set hlsearch " 搜索高亮
 set linebreak " 单词换行
+set ttimeoutlen=40 " 超时时间
 
 set tabstop=4 " 制表符
 set shiftwidth=4 " 空格级别
 set laststatus=2 " 状态栏高度
 
-set list " 显示隐藏字符
-set listchars=tab:▸\ ,eol:¬ " 设置隐藏字符
-scriptencoding utf-8 " 特殊字符在 git 中的支持
+" 隐藏字符设置
+set encoding=utf-8
+scriptencoding utf-8
+set list
+set listchars=tab:»·,trail:·,eol:¬
 
-" 设置当前行高亮
+" 颜色显示设置
 set cursorline
-hi cursorline cterm=none term=none
+highlight cursorline cterm=none ctermbg=234
+highlight nontext cterm=none ctermfg=darkgray
+highlight specialkey cterm=none ctermfg=darkgray
 autocmd WinEnter * setlocal cursorline
 autocmd WinLeave * setlocal nocursorline
-highlight CursorLine guibg=#303000 ctermbg=234 " 高亮颜色

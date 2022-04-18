@@ -6,7 +6,8 @@ doskey ls=%ls% $*
 doskey ll=%ls% -alhG $*
 doskey la=%ls% -A $*
 doskey l=%ls% -CF $*
-doskey du=du -h $*
+doskey duh=du -h $*
+doskey dud=du -h -d 1 $*
 doskey grep=grep --color=always $*
 doskey fgrep=fgrep --color=always $*
 doskey egrep=egrep --color=always $*
