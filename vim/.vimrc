@@ -18,6 +18,8 @@ set listchars=tab:»·,trail:·,eol:¬
 " 颜色显示设置
 set cursorline
 highlight cursorline cterm=none ctermbg=234
+highlight cursorlinenr cterm=none ctermbg=234
+highlight visual cterm=none ctermbg=darkgray
 highlight nontext cterm=none ctermfg=darkgray
 highlight specialkey cterm=none ctermfg=darkgray
 autocmd WinEnter * setlocal cursorline

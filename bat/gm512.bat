@@ -6,12 +6,17 @@ set arg1=%arg1:"=%
 
 if "%arg1%" == "/?" goto usage
 if "%arg1%" == ""   goto usage
+if not exist "%arg1%" goto error
 if "%arg2%" == ""   goto gm
 if "%arg2%" == "/R" goto gm
 goto usage
 
 :usage
 echo Usage: gm512 filename [/R]
+goto eof
+
+:error
+echo Error: file "%arg1%" is not found.
 goto eof
 
 :gm

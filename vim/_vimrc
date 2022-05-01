@@ -27,6 +27,9 @@ set clipboard=unnamed,autoselect
 " 颜色显示设置
 set nocursorline
 highlight cursorline cterm=none ctermbg=darkblue
+highlight cursorlinenr cterm=none ctermbg=darkblue
+highlight visual cterm=none ctermbg=darkgray
+highlight linenr cterm=none ctermfg=yellow
 highlight nontext cterm=none ctermfg=darkgray
 highlight specialkey cterm=none ctermfg=darkgray
 autocmd InsertEnter * setlocal cursorline
