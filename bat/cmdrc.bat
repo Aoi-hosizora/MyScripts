@@ -16,6 +16,7 @@ doskey fgrep=grep -F --color=always $*
 doskey ctree=tree.exe -N $*
 doskey $?=echo %%errorlevel%%
 doskey nppcode=npp -openFoldersAsWorkspace $*
+doskey sloc=gfind.exe . $* ^| xargs wc -l
 
 :: Windows
 doskey expl=explorer $*

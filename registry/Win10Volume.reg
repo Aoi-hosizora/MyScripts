@@ -1,9 +1,0 @@
-Windows Registry Editor Version 5.00
-
-; Old
-
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\MTCUVC]
-"EnableMtcUvc"=dword:0
-
-; New
-; [-HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\MTCUVC]
