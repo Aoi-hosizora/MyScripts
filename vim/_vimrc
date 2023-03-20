@@ -1,9 +1,11 @@
 ﻿set number " 显示行号
 syntax on " 语法高亮
 set autoindent " 自动缩进
+set expandtab " 空格缩进
 set hlsearch " 搜索高亮
 set linebreak " 单词换行
 set backspace=indent,eol,start " 退格返回上行
+set pastetoggle=<F10> " 粘贴模式切换
 
 set tabstop=4 " 制表符
 set shiftwidth=4 " 空格级别
@@ -22,7 +24,8 @@ set listchars=tab:»·,trail:·,eol:┐
 
 " 快捷键和剪贴板设置
 " source $VIMRUNTIME/mswin.vim " => 不使用，会影响 vim 在 windows 中的按键功能
-set clipboard=unnamed,autoselect
+set clipboard=unnamed,autoselect " 双向同步系统剪贴板内容
+source $VIMRUNTIME/defaults.vim " 开启一些功能，如记忆上次打开位置
 
 " 颜色显示设置
 set nocursorline

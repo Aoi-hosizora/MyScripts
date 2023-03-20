@@ -1,6 +1,6 @@
 # MyScripts
 
-+ My personal scripts.
++ My personal public scripts.
 
 ### Contents
 

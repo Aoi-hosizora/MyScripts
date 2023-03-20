@@ -1,9 +1,11 @@
 set number " 显示行号
 syntax on " 语法高亮
 set autoindent " 自动缩进
+set expandtab " 空格缩进
 set hlsearch " 搜索高亮
 set linebreak " 单词换行
 set ttimeoutlen=40 " 超时时间
+set pastetoggle=<F10> " 粘贴模式切换
 
 set tabstop=4 " 制表符
 set shiftwidth=4 " 空格级别

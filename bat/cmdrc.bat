@@ -8,6 +8,7 @@ doskey la=%ls% -A $*
 doskey l=%ls% -CF $*
 doskey duh=du -h $*
 doskey dud=du -ah -d 1 $*
+doskey lll=readlink -f $*
 doskey grep=grep --color=always $*
 doskey egrep=grep -E --color=always $*
 doskey fgrep=grep -F --color=always $*
@@ -23,6 +24,7 @@ doskey expl=explorer $*
 doskey cd=cd /d $*
 doskey ~=cd /d "%USERPROFILE%\$*"
 doskey ~d=cd /d "%USERPROFILE%\Desktop\$*"
+set ~=%USERPROFILE%
 
 :: Prompt
 :: prompt $e[104m$p$e[0m$g 
