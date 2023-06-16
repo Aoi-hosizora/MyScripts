@@ -17,7 +17,7 @@ scriptencoding utf-8
 set list
 set listchars=tab:»·,trail:·,eol:¬
 
-" 颜色显示设置
+" 颜色显示设置 (Ubuntu)
 set cursorline
 highlight cursorline cterm=none ctermbg=234
 highlight cursorlinenr cterm=none ctermbg=234

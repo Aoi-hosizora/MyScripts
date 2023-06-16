@@ -22,12 +22,14 @@ scriptencoding utf-8
 set list
 set listchars=tab:»·,trail:·,eol:┐
 
-" 快捷键和剪贴板设置
+" 快捷键和剪贴板等设置
 " source $VIMRUNTIME/mswin.vim " => 不使用，会影响 vim 在 windows 中的按键功能
 set clipboard=unnamed,autoselect " 双向同步系统剪贴板内容
 source $VIMRUNTIME/defaults.vim " 开启一些功能，如记忆上次打开位置
 
-" 颜色显示设置
+" 颜色显示设置 (Windows)
+set background=dark
+colorscheme slate " default / desert / zellner
 set nocursorline
 highlight cursorline cterm=none ctermbg=darkblue
 highlight cursorlinenr cterm=none ctermbg=darkblue

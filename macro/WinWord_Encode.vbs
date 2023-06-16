@@ -1,33 +1,33 @@
-Sub 愒()
+Sub 赤()
 '
-' 愒 Macro
+' 赤 Macro
 '
 ' Alt S
 '
     Selection.Font.Color = wdColorRed
 End Sub
 
-Sub 惵()
+Sub 青()
 '
-' 惵 Macro
+' 青 Macro
 '
 ' Alt B
 '
     Selection.Font.Color = -671023207
 End Sub
 
-Sub 崟()
+Sub 黒()
 '
-' 崟 Macro
+' 黒 Macro
 '
 ' Alt Z
 '
     Selection.Font.Color = wdColorAutomatic
 End Sub
 
-Sub 柍彂幃()
+Sub 無書式()
 '
-' 柍彂幃 Macro
+' 無書式 Macro
 '
 ' Alt X
 '
@@ -42,9 +42,9 @@ Sub 柍彂幃()
     Selection.Range.HighlightColorIndex = wdNoHighlight
 End Sub
 
-Sub 柍彂幃偺揬傝晅偗()
+Sub 無書式の貼り付け()
 '
-' 柍彂幃偺揬傝晅偗 Macro
+' 無書式の貼り付け Macro
 '
 ' Alt V
 '
@@ -52,9 +52,9 @@ Sub 柍彂幃偺揬傝晅偗()
     Selection.PasteAndFormat (wdFormatPlainText)
 End Sub
 
-Sub 僐僺乕()
+Sub コピー()
 '
-' 僐僺乕 Macro
+' コピー Macro
 '
 ' Alt C
 '
@@ -62,18 +62,18 @@ Sub 僐僺乕()
     Selection.Copy
 End Sub
 
-Sub 庢傝徚偟慄()
+Sub 取り消し線()
 '
-' 庢傝徚偟慄 Macro
+' 取り消し線 Macro
 '
 ' Alt D
 '
     Selection.Font.StrikeThrough = wdToggle
 End Sub
 
-Sub 墿怓偄儁儞()
+Sub 黄色いペン()
 '
-' 墿怓偄儁儞 Macro
+' 黄色いペン Macro
 '
 ' Shift Alt S
 '
@@ -81,9 +81,9 @@ Sub 墿怓偄儁儞()
     Selection.Range.HighlightColorIndex = wdYellow
 End Sub
 
-Sub 惵偄儁儞()
+Sub 青いペン()
 '
-' 惵偄儁儞 Macro
+' 青いペン Macro
 '
 ' Shift Alt B
 '
@@ -91,9 +91,9 @@ Sub 惵偄儁儞()
     Selection.Range.HighlightColorIndex = wdTurquoise
 End Sub
 
-Sub 儁儞傪徚偡()
+Sub ペンを消す()
 '
-' 儁儞傪徚偡 Macro
+' ペンを消す Macro
 '
 ' Shift Alt Z
 '
