@@ -11,7 +11,7 @@
     + `pm-template.html5` (old)
     + `pandocode.bat` (new)
 + macro
-    + `WinWord.vbs` (20190701)
+    + `WinWord.vbs` `WinWord_Encode.vbs` (20190701, Shift-JIS)
 + bat
     + `restartexplorer.bat`
     + `cmdrc.bat` (add `REG_SZ AutoRun` to `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor` or `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor`, visit [window中的cmd中设置别名(alias)及设置快捷键打开cmd](https://blog.csdn.net/yiranzhiliposui/article/details/83116819) for more)
@@ -20,8 +20,10 @@
     + `cgrep.bat` (alias for `grep --color=always`)
     + `utf8.bat` (uchardet and iconv)
     + `geny_topmost.bat` (cmdow and genymotion)
+    + `proxyenv.bat`
+    + `gitdate.bat`
 + vim
-    + `.vimrc` (Linux)
+    + `.vimrc` (Ubuntu)
     + `_vimrc` (Windows)
 + shell
     + `gt.sh` (gnome-terminal)
